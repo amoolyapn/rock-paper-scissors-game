@@ -17,13 +17,12 @@ Created a Rock-Paper-Scissors game using HTML, CSS, and JavaScript. It has butto
 | CSS        | Styling and layout      |
 | JavaScript | Game logic and interactivity |
 
----
 
 ## Project Structure
 rock-paper-scissors-game-main/
 ├── index.html # Main HTML file
 ├── style.css # Styling
-├── script.js # Game logic
+├── index.js # Game logic
 └── README.md # Project documentation
 
 
